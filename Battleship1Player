@@ -1,5 +1,5 @@
 /*
-Based on the following problem:
+Based on the following problem: https://www.hackerrank.com/challenges/battleship1p
 
 This solution uses a relatively basic search for a hit, then look around until it is destroyed. 
 It ranks 47.8 points out of a maximum attained 76.8 at the time of creation. 
