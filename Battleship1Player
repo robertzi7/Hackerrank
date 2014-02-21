@@ -2,10 +2,10 @@
 Based on the following problem: https://www.hackerrank.com/challenges/battleship1p
 
 This solution uses a relatively basic search for a hit, then look around until it is destroyed. 
-It ranks 47.8 points out of a maximum attained 76.8 at the time of creation. 
+It 47.8 points out of a maximum attained 76.8 at the time of creation. 
 
 For other statistical variables: 
-It scores 64th out of 285 scoring participants
+It scores 64th out of 285 scoring participants [Practice Scoring Mode]
 The 10th place program scores 58 points to give an idea on how tight the spread is.
 */
 
