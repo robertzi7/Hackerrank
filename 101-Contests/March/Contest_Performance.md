@@ -1,4 +1,4 @@
-All links for the form: https://www.hackerrank.com/contests/101mar14/challenges/*
+All links are of the form: https://www.hackerrank.com/contests/101mar14/challenges/*
 
 Challenges:
 
