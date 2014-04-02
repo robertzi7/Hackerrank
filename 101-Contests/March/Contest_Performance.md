@@ -3,7 +3,6 @@ All links for the form: https://www.hackerrank.com/contests/101mar14/challenges/
 Challenges:
 
 Rectangular Game: /rectangular-game (Easy) [Completed]
-
 Hexagonal Grid: /hexagonal-grid (Moderate) [Completed after contest]
 
 Extremum Permutations: /extremum-permutations (Difficult) [Not Started]
