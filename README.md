@@ -1,6 +1,6 @@
 Hello, Welcome to my hackerrank.com program repository.
 
-Currently I am in the middle of putting in all of the programs that I've written for all of the contests I've participated in before I made this. I plan to be finished before the start of next week.
+Currently I am in the middle of putting in all of the programs that I've written for all of the contests I've participated in before I first made this. I plan to have the majority of the contests finished before April 7th.
 
 Here is a link to my profile, so you can see my performance in all contests: https://www.hackerrank.com/robertzi7
 
