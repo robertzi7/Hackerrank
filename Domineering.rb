@@ -1,14 +1,12 @@
-/*
-Based on the following problem: https://www.hackerrank.com/challenges/battleship1p
+# Based on the following problem: https://www.hackerrank.com/challenges/battleship1p
 
-This solution uses every other row/coloumn to determine its next placement to reduce where the opponent will go.
-There is a 50% chance that it will either take the first avaliable possition and a 50% chance that it will take
-the last avaliable possition to help against people who only go in one direction
+# This solution uses every other row/coloumn to determine its next placement to reduce where the opponent will go.
+# There is a 50% chance that it will either take the first avaliable possition and a 50% chance that it will take
+# the last avaliable possition to help against people who only go in one direction
 
-58.5% win rate
-46.97 points out of a maximum attained 62.45
-34th out of 125 scoring participants [Practice Scoring Mode]
-*/
+# 58.5% win rate
+# 46.97 points out of a maximum attained 62.45
+# 34th out of 125 scoring participants [Practice Scoring Mode]
 
 #!/bin/ruby
 
