@@ -1,7 +1,7 @@
 All links are of the form: https://www.hackerrank.com/contests/codesprint5/challenges/*
 
 11 challenges in the span of 24 hours. Due to the difficulty of the challenges as it progressed,
-only the challenges that I did moderately well in are presented here.
+only the challenges that I completed or did moderately well in are presented here.
 
 Is Fibo: /is-fibo, Moderate
 
