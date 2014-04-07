@@ -1,6 +1,6 @@
 All links are of the form: https://www.hackerrank.com/contests/feb14/challenges/*
 
-Contest page shows all contests to be Difficult, however I know that is not the case. In general they are ordered from easiest to hardest
+Contest page shows all challenges to be Difficult, however I know that is not the case. In general they are ordered from easiest to hardest
 
 Sherlock and Watson: /sherlock-and-watson, Completed
 
