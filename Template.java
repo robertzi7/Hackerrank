@@ -38,7 +38,7 @@ public class Solution {
     static long combination(int m, int n){
         if(n == 0)
             return 1;
-        return ( ((sol(m-1,n-1)*m) % 1000000007) * modInverse(n, 1000000007) ) % 1000000007;
+        return ( ((combination(m-1,n-1)*m) % 1000000007) * modInverse(n, 1000000007) ) % 1000000007;
     }
     
     static long modpow(long a,long b,long c) {
