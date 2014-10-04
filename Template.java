@@ -11,6 +11,43 @@ public class Solution {
 	static PrintWriter out;
 	static String INPUT = "";
     static int MOD = 1000000007;
+    
+    public static long gcd(long a, long b) { return b==0 ? a : gcd(b, a%b); }
+    
+    static long modInverse(long a, int n) {
+        long i = n, v = 0, d = 1;
+        while (a>0) {
+            long t = i/a, x = a;
+            a = i % x;
+            i = x;
+            x = d;
+            d = v - t*x;
+            v = x;
+        }
+        v %= n;
+        if (v<0) 
+            v = (v+n)%n;
+        return v;
+    }
+    
+    static long combination(int m, int n){
+        if(n == 0)
+            return 1;
+        return ( ((sol(m-1,n-1)*m) % 1000000007) * modInverse(n, 1000000007) ) % 1000000007;
+    }
+    
+    static long modpow(long a,long b,long c) {
+      long x=1;
+      long y=a;
+      while(b > 0){
+        if(b%2 == 1){
+            x=(x*y)%c;
+        }
+        y = (y*y)%c; // squaring the base
+        b /= 2;
+      }
+      return x%c;
+    }
 	
 	static void solve()
 	{
