@@ -12,6 +12,11 @@ public class Solution {
 	static String INPUT = "";
     static int MOD = 1000000007;
     
+    static void solve()
+	{
+      
+	}
+    
     public static long gcd(long a, long b) { return b==0 ? a : gcd(b, a%b); }
     
     static long modInverse(long a, int n) {
@@ -48,11 +53,6 @@ public class Solution {
       }
       return x%c;
     }
-	
-	static void solve()
-	{
-      
-	}
 	
 	public static void main(String[] args) throws Exception
 	{
